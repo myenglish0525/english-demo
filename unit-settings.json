@@ -1,0 +1,22 @@
+{
+  "UNIT1": {
+    "totalScore": 100,
+    "passScore": 100
+  },
+  "UNIT2": {
+    "totalScore": 100,
+    "passScore": 100
+  },
+  "UNIT3": {
+    "totalScore": 120,
+    "passScore": 120
+  },
+  "UNIT4": {
+    "totalScore": 120,
+    "passScore": 120
+  },
+  "UNIT5": {
+    "totalScore": 150,
+    "passScore": 150
+  }
+}
